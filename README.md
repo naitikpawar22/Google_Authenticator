@@ -13,9 +13,9 @@ Enhance your website security with **Google Authenticator**, a robust two-factor
 ✅ **Quick setup** for developers  
 
 ## 🎬 Preview
-![Preview 1](p1)
-![Preview 2](p2)
-![Preview 3](p3)
+![Preview 1](Screenshot 2025-03-28 231042.png)
+![Preview 2](Screenshot 2025-03-28 231114.png)
+![Preview 3](Screenshot 2025-03-28 231125.png)
 
 ## 📌 How It Works
 1. **User Login:** Users enter their credentials (username & password).
