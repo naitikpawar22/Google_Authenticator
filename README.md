@@ -26,7 +26,7 @@ Enhance your website security with **Google Authenticator**, a robust two-factor
 ## 📜 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/google-authenticator-project.git
+git clone https://github.com/naitikpawar22/Google_Authenticator.git
 
 # Navigate to the project folder
 cd google-authenticator-project
@@ -35,7 +35,7 @@ cd google-authenticator-project
 npm install
 
 # Start the server
-npm start
+node server.js
 ```
 
 ## 🛠️ Setup Google Authenticator
